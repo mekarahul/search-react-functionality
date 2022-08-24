@@ -1,8 +1,13 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('App component exists', () => {
+  const app = render(<App />);
+  expect(app).toBeTruthy();
+});
+
+test('heading exist', () => {
+  const app = render(<App />);
+  const heading = screen.getByText("List of Users");
+  expect(heading).toBeInTheDocument();
 });

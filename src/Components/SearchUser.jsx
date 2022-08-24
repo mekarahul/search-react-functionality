@@ -6,7 +6,7 @@ function SearchUsers() {
     const {handleLocationSearch} = useContext(UsersContext);
     return (
         <div className="search-users">
-            <h1>List of Users</h1>
+            <h1 id="list-users-headder">List of Users</h1>
                 <input type="text" placeholder="Search" className="usr-search" onChange = {handleLocationSearch}/>
         </div>
     )
