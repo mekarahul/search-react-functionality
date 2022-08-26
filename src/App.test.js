@@ -8,6 +8,6 @@ test('App component exists', () => {
 
 test('heading exist', () => {
   const app = render(<App />);
-  const heading = screen.getByText("List of Users");
+  const heading = screen.getByText("List of US cities");
   expect(heading).toBeInTheDocument();
 });

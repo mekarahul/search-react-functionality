@@ -1,0 +1,2650 @@
+[
+    {
+      "zip_code": 501,
+      "latitude": 40.922326,
+      "longitude": -72.637078,
+      "city": "Holtsville",
+      "state": "NY",
+      "county": "Suffolk"
+    },
+    {
+      "zip_code": 544,
+      "latitude": 40.922326,
+      "longitude": -72.637078,
+      "city": "Holtsville",
+      "state": "NY",
+      "county": "Suffolk"
+    },
+    {
+      "zip_code": 601,
+      "latitude": 18.165273,
+      "longitude": -66.722583,
+      "city": "Adjuntas",
+      "state": "PR",
+      "county": "Adjuntas"
+    },
+    {
+      "zip_code": 602,
+      "latitude": 18.393103,
+      "longitude": -67.180953,
+      "city": "Aguada",
+      "state": "PR",
+      "county": "Aguada"
+    },
+    {
+      "zip_code": 603,
+      "latitude": 18.455913,
+      "longitude": -67.14578,
+      "city": "Aguadilla",
+      "state": "PR",
+      "county": "Aguadilla"
+    },
+    {
+      "zip_code": 604,
+      "latitude": 18.49352,
+      "longitude": -67.135883,
+      "city": "Aguadilla",
+      "state": "PR",
+      "county": "Aguadilla"
+    },
+    {
+      "zip_code": 605,
+      "latitude": 18.465162,
+      "longitude": -67.141486,
+      "city": "Aguadilla",
+      "state": "PR",
+      "county": "Aguadilla"
+    },
+    {
+      "zip_code": 606,
+      "latitude": 18.172947,
+      "longitude": -66.944111,
+      "city": "Maricao",
+      "state": "PR",
+      "county": "Maricao"
+    },
+    {
+      "zip_code": 610,
+      "latitude": 18.288685,
+      "longitude": -67.139696,
+      "city": "Anasco",
+      "state": "PR",
+      "county": "Anasco"
+    },
+    {
+      "zip_code": 611,
+      "latitude": 18.279531,
+      "longitude": -66.80217,
+      "city": "Angeles",
+      "state": "PR",
+      "county": "Utuado"
+    },
+    {
+      "zip_code": 612,
+      "latitude": 18.450674,
+      "longitude": -66.698262,
+      "city": "Arecibo",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 613,
+      "latitude": 18.458093,
+      "longitude": -66.732732,
+      "city": "Arecibo",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 614,
+      "latitude": 18.429675,
+      "longitude": -66.674506,
+      "city": "Arecibo",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 616,
+      "latitude": 18.444792,
+      "longitude": -66.640678,
+      "city": "Bajadero",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 617,
+      "latitude": 18.447092,
+      "longitude": -66.544255,
+      "city": "Barceloneta",
+      "state": "PR",
+      "county": "Barceloneta"
+    },
+    {
+      "zip_code": 622,
+      "latitude": 17.998531,
+      "longitude": -67.187318,
+      "city": "Boqueron",
+      "state": "PR",
+      "county": "Cabo Rojo"
+    },
+    {
+      "zip_code": 623,
+      "latitude": 18.062201,
+      "longitude": -67.149541,
+      "city": "Cabo Rojo",
+      "state": "PR",
+      "county": "Cabo Rojo"
+    },
+    {
+      "zip_code": 624,
+      "latitude": 18.023535,
+      "longitude": -66.726156,
+      "city": "Penuelas",
+      "state": "PR",
+      "county": "Penuelas"
+    },
+    {
+      "zip_code": 627,
+      "latitude": 18.477891,
+      "longitude": -66.85477,
+      "city": "Camuy",
+      "state": "PR",
+      "county": "Camuy"
+    },
+    {
+      "zip_code": 631,
+      "latitude": 18.269187,
+      "longitude": -66.864993,
+      "city": "Castaner",
+      "state": "PR",
+      "county": "Lares"
+    },
+    {
+      "zip_code": 636,
+      "latitude": 18.113284,
+      "longitude": -67.039706,
+      "city": "Rosario",
+      "state": "PR",
+      "county": "San German"
+    },
+    {
+      "zip_code": 637,
+      "latitude": 18.087322,
+      "longitude": -66.934911,
+      "city": "Sabana Grande",
+      "state": "PR",
+      "county": "Sabana Grande"
+    },
+    {
+      "zip_code": 638,
+      "latitude": 18.33616,
+      "longitude": -66.472087,
+      "city": "Ciales",
+      "state": "PR",
+      "county": "Ciales"
+    },
+    {
+      "zip_code": 641,
+      "latitude": 18.250027,
+      "longitude": -66.698957,
+      "city": "Utuado",
+      "state": "PR",
+      "county": "Utuado"
+    },
+    {
+      "zip_code": 646,
+      "latitude": 18.43606,
+      "longitude": -66.281954,
+      "city": "Dorado",
+      "state": "PR",
+      "county": "Dorado"
+    },
+    {
+      "zip_code": 647,
+      "latitude": 17.969594,
+      "longitude": -66.939754,
+      "city": "Ensenada",
+      "state": "PR",
+      "county": "Guanica"
+    },
+    {
+      "zip_code": 650,
+      "latitude": 18.360125,
+      "longitude": -66.562311,
+      "city": "Florida",
+      "state": "PR",
+      "county": "Florida"
+    },
+    {
+      "zip_code": 652,
+      "latitude": 18.457254,
+      "longitude": -66.603358,
+      "city": "Garrochales",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 653,
+      "latitude": 17.972468,
+      "longitude": -66.898661,
+      "city": "Guanica",
+      "state": "PR",
+      "county": "Guanica"
+    },
+    {
+      "zip_code": 656,
+      "latitude": 18.02328,
+      "longitude": -66.786909,
+      "city": "Guayanilla",
+      "state": "PR",
+      "county": "Guayanilla"
+    },
+    {
+      "zip_code": 659,
+      "latitude": 18.481391,
+      "longitude": -66.808696,
+      "city": "Hatillo",
+      "state": "PR",
+      "county": "Hatillo"
+    },
+    {
+      "zip_code": 660,
+      "latitude": 18.145486,
+      "longitude": -67.135323,
+      "city": "Hormigueros",
+      "state": "PR",
+      "county": "Hormigueros"
+    },
+    {
+      "zip_code": 662,
+      "latitude": 18.480285,
+      "longitude": -67.028155,
+      "city": "Isabela",
+      "state": "PR",
+      "county": "Isabela"
+    },
+    {
+      "zip_code": 664,
+      "latitude": 18.217606,
+      "longitude": -66.598306,
+      "city": "Jayuya",
+      "state": "PR",
+      "county": "Jayuya"
+    },
+    {
+      "zip_code": 667,
+      "latitude": 18.015099,
+      "longitude": -67.055973,
+      "city": "Lajas",
+      "state": "PR",
+      "county": "Lajas"
+    },
+    {
+      "zip_code": 669,
+      "latitude": 18.295952,
+      "longitude": -66.881925,
+      "city": "Lares",
+      "state": "PR",
+      "county": "Lares"
+    },
+    {
+      "zip_code": 670,
+      "latitude": 18.252135,
+      "longitude": -66.990967,
+      "city": "Las Marias",
+      "state": "PR",
+      "county": "Las Marias"
+    },
+    {
+      "zip_code": 674,
+      "latitude": 18.44553,
+      "longitude": -66.490268,
+      "city": "Manati",
+      "state": "PR",
+      "county": "Manati"
+    },
+    {
+      "zip_code": 676,
+      "latitude": 18.383727,
+      "longitude": -67.080799,
+      "city": "Moca",
+      "state": "PR",
+      "county": "Moca"
+    },
+    {
+      "zip_code": 677,
+      "latitude": 18.335781,
+      "longitude": -67.252547,
+      "city": "Rincon",
+      "state": "PR",
+      "county": "Rincon"
+    },
+    {
+      "zip_code": 678,
+      "latitude": 18.45303,
+      "longitude": -66.933689,
+      "city": "Quebradillas",
+      "state": "PR",
+      "county": "Quebradillas"
+    },
+    {
+      "zip_code": 680,
+      "latitude": 18.219023,
+      "longitude": -67.508068,
+      "city": "Mayaguez",
+      "state": "PR",
+      "county": "Mayaguez"
+    },
+    {
+      "zip_code": 681,
+      "latitude": 18.219023,
+      "longitude": -67.508068,
+      "city": "Mayaguez",
+      "state": "PR",
+      "county": "Mayaguez"
+    },
+    {
+      "zip_code": 682,
+      "latitude": 18.219023,
+      "longitude": -67.508068,
+      "city": "Mayaguez",
+      "state": "PR",
+      "county": "Mayaguez"
+    },
+    {
+      "zip_code": 683,
+      "latitude": 18.113284,
+      "longitude": -67.039706,
+      "city": "San German",
+      "state": "PR",
+      "county": "San German"
+    },
+    {
+      "zip_code": 685,
+      "latitude": 18.3236,
+      "longitude": -66.972227,
+      "city": "San Sebastian",
+      "state": "PR",
+      "county": "San Sebastian"
+    },
+    {
+      "zip_code": 687,
+      "latitude": 18.316976,
+      "longitude": -66.415207,
+      "city": "Morovis",
+      "state": "PR",
+      "county": "Morovis"
+    },
+    {
+      "zip_code": 688,
+      "latitude": 18.429675,
+      "longitude": -66.674506,
+      "city": "Sabana Hoyos",
+      "state": "PR",
+      "county": "Arecibo"
+    },
+    {
+      "zip_code": 690,
+      "latitude": 18.476196,
+      "longitude": -67.139597,
+      "city": "San Antonio",
+      "state": "PR",
+      "county": "Aguadilla"
+    },
+    {
+      "zip_code": 692,
+      "latitude": 18.435818,
+      "longitude": -66.338523,
+      "city": "Vega Alta",
+      "state": "PR",
+      "county": "Vega Alta"
+    },
+    {
+      "zip_code": 693,
+      "latitude": 18.443109,
+      "longitude": -66.398302,
+      "city": "Vega Baja",
+      "state": "PR",
+      "county": "Vega Baja"
+    },
+    {
+      "zip_code": 694,
+      "latitude": 18.443109,
+      "longitude": -66.398302,
+      "city": "Vega Baja",
+      "state": "PR",
+      "county": "Vega Baja"
+    },
+    {
+      "zip_code": 698,
+      "latitude": 18.06104,
+      "longitude": -66.861164,
+      "city": "Yauco",
+      "state": "PR",
+      "county": "Yauco"
+    },
+    {
+      "zip_code": 703,
+      "latitude": 18.250398,
+      "longitude": -66.12845,
+      "city": "Aguas Buenas",
+      "state": "PR",
+      "county": "Aguas Buenas"
+    },
+    {
+      "zip_code": 704,
+      "latitude": 17.99229,
+      "longitude": -66.139253,
+      "city": "Aguirre",
+      "state": "PR",
+      "county": "Guayama"
+    },
+    {
+      "zip_code": 705,
+      "latitude": 18.128092,
+      "longitude": -66.268717,
+      "city": "Aibonito",
+      "state": "PR",
+      "county": "Aibonito"
+    },
+    {
+      "zip_code": 707,
+      "latitude": 18.007014,
+      "longitude": -65.898719,
+      "city": "Maunabo",
+      "state": "PR",
+      "county": "Maunabo"
+    },
+    {
+      "zip_code": 714,
+      "latitude": 17.96751,
+      "longitude": -66.04138,
+      "city": "Arroyo",
+      "state": "PR",
+      "county": "Arroyo"
+    },
+    {
+      "zip_code": 715,
+      "latitude": 18.011854,
+      "longitude": -66.563721,
+      "city": "Mercedita",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 716,
+      "latitude": 18.001995,
+      "longitude": -66.607429,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 717,
+      "latitude": 18.001995,
+      "longitude": -66.607429,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 718,
+      "latitude": 18.22139,
+      "longitude": -65.77831,
+      "city": "Naguabo",
+      "state": "PR",
+      "county": "Naguabo"
+    },
+    {
+      "zip_code": 719,
+      "latitude": 18.298017,
+      "longitude": -66.229751,
+      "city": "Naranjito",
+      "state": "PR",
+      "county": "Naranjito"
+    },
+    {
+      "zip_code": 720,
+      "latitude": 18.226862,
+      "longitude": -66.39402,
+      "city": "Orocovis",
+      "state": "PR",
+      "county": "Orocovis"
+    },
+    {
+      "zip_code": 721,
+      "latitude": 18.364161,
+      "longitude": -65.778288,
+      "city": "Palmer",
+      "state": "PR",
+      "county": "Rio Grande"
+    },
+    {
+      "zip_code": 723,
+      "latitude": 18.009994,
+      "longitude": -66.010572,
+      "city": "Patillas",
+      "state": "PR",
+      "county": "Patillas"
+    },
+    {
+      "zip_code": 725,
+      "latitude": 18.212965,
+      "longitude": -66.058033,
+      "city": "Caguas",
+      "state": "PR",
+      "county": "Caguas"
+    },
+    {
+      "zip_code": 726,
+      "latitude": 18.212965,
+      "longitude": -66.058033,
+      "city": "Caguas",
+      "state": "PR",
+      "county": "Caguas"
+    },
+    {
+      "zip_code": 727,
+      "latitude": 18.212965,
+      "longitude": -66.058033,
+      "city": "Caguas",
+      "state": "PR",
+      "county": "Caguas"
+    },
+    {
+      "zip_code": 728,
+      "latitude": 18.001995,
+      "longitude": -66.607429,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 729,
+      "latitude": 18.333093,
+      "longitude": -65.883864,
+      "city": "Canovanas",
+      "state": "PR",
+      "county": "Canovanas"
+    },
+    {
+      "zip_code": 730,
+      "latitude": 18.001995,
+      "longitude": -66.607429,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 731,
+      "latitude": 18.03831,
+      "longitude": -66.626344,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 732,
+      "latitude": 18.021781,
+      "longitude": -66.613742,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 733,
+      "latitude": 18.019331,
+      "longitude": -66.619165,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 734,
+      "latitude": 17.999499,
+      "longitude": -66.643934,
+      "city": "Ponce",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 735,
+      "latitude": 18.264872,
+      "longitude": -65.594769,
+      "city": "Ceiba",
+      "state": "PR",
+      "county": "Ceiba"
+    },
+    {
+      "zip_code": 736,
+      "latitude": 18.102967,
+      "longitude": -66.139274,
+      "city": "Cayey",
+      "state": "PR",
+      "county": "Cayey"
+    },
+    {
+      "zip_code": 737,
+      "latitude": 18.102967,
+      "longitude": -66.139274,
+      "city": "Cayey",
+      "state": "PR",
+      "county": "Cayey"
+    },
+    {
+      "zip_code": 738,
+      "latitude": 18.359381,
+      "longitude": -65.611361,
+      "city": "Fajardo",
+      "state": "PR",
+      "county": "Fajardo"
+    },
+    {
+      "zip_code": 739,
+      "latitude": 18.181469,
+      "longitude": -66.169519,
+      "city": "Cidra",
+      "state": "PR",
+      "county": "Cidra"
+    },
+    {
+      "zip_code": 740,
+      "latitude": 18.331958,
+      "longitude": -65.63878,
+      "city": "Puerto Real",
+      "state": "PR",
+      "county": "Fajardo"
+    },
+    {
+      "zip_code": 741,
+      "latitude": 18.162156,
+      "longitude": -65.753485,
+      "city": "Punta Santiago",
+      "state": "PR",
+      "county": "Humacao"
+    },
+    {
+      "zip_code": 742,
+      "latitude": 18.264872,
+      "longitude": -65.594769,
+      "city": "Roosevelt Roads",
+      "state": "PR",
+      "county": "Ceiba"
+    },
+    {
+      "zip_code": 744,
+      "latitude": 18.206329,
+      "longitude": -65.743058,
+      "city": "Rio Blanco",
+      "state": "PR",
+      "county": "Naguabo"
+    },
+    {
+      "zip_code": 745,
+      "latitude": 18.367347,
+      "longitude": -65.816583,
+      "city": "Rio Grande",
+      "state": "PR",
+      "county": "Rio Grande"
+    },
+    {
+      "zip_code": 751,
+      "latitude": 17.99852,
+      "longitude": -66.264825,
+      "city": "Salinas",
+      "state": "PR",
+      "county": "Salinas"
+    },
+    {
+      "zip_code": 754,
+      "latitude": 18.187584,
+      "longitude": -65.962389,
+      "city": "San Lorenzo",
+      "state": "PR",
+      "county": "San Lorenzo"
+    },
+    {
+      "zip_code": 757,
+      "latitude": 17.991233,
+      "longitude": -66.395543,
+      "city": "Santa Isabel",
+      "state": "PR",
+      "county": "Santa Isabel"
+    },
+    {
+      "zip_code": 765,
+      "latitude": 18.123347,
+      "longitude": -65.460356,
+      "city": "Vieques",
+      "state": "PR",
+      "county": "Vieques"
+    },
+    {
+      "zip_code": 766,
+      "latitude": 18.120519,
+      "longitude": -66.496607,
+      "city": "Villalba",
+      "state": "PR",
+      "county": "Villalba"
+    },
+    {
+      "zip_code": 767,
+      "latitude": 18.045522,
+      "longitude": -65.886988,
+      "city": "Yabucoa",
+      "state": "PR",
+      "county": "Yabucoa"
+    },
+    {
+      "zip_code": 769,
+      "latitude": 18.095992,
+      "longitude": -66.35081,
+      "city": "Coamo",
+      "state": "PR",
+      "county": "Coamo"
+    },
+    {
+      "zip_code": 771,
+      "latitude": 18.196576,
+      "longitude": -65.87197,
+      "city": "Las Piedras",
+      "state": "PR",
+      "county": "Las Piedras"
+    },
+    {
+      "zip_code": 772,
+      "latitude": 18.447406,
+      "longitude": -65.899357,
+      "city": "Loiza",
+      "state": "PR",
+      "county": "Loiza"
+    },
+    {
+      "zip_code": 773,
+      "latitude": 18.366027,
+      "longitude": -65.708138,
+      "city": "Luquillo",
+      "state": "PR",
+      "county": "Luquillo"
+    },
+    {
+      "zip_code": 775,
+      "latitude": 18.323736,
+      "longitude": -65.296467,
+      "city": "Culebra",
+      "state": "PR",
+      "county": "Culebra"
+    },
+    {
+      "zip_code": 777,
+      "latitude": 18.206489,
+      "longitude": -65.901774,
+      "city": "Juncos",
+      "state": "PR",
+      "county": "Juncos"
+    },
+    {
+      "zip_code": 778,
+      "latitude": 18.259092,
+      "longitude": -65.974641,
+      "city": "Gurabo",
+      "state": "PR",
+      "county": "Gurabo"
+    },
+    {
+      "zip_code": 780,
+      "latitude": 18.001995,
+      "longitude": -66.607429,
+      "city": "Coto Laurel",
+      "state": "PR",
+      "county": "Ponce"
+    },
+    {
+      "zip_code": 782,
+      "latitude": 18.224958,
+      "longitude": -66.219885,
+      "city": "Comerio",
+      "state": "PR",
+      "county": "Comerio"
+    },
+    {
+      "zip_code": 783,
+      "latitude": 18.304369,
+      "longitude": -66.330525,
+      "city": "Corozal",
+      "state": "PR",
+      "county": "Corozal"
+    },
+    {
+      "zip_code": 784,
+      "latitude": 17.99229,
+      "longitude": -66.139253,
+      "city": "Guayama",
+      "state": "PR",
+      "county": "Guayama"
+    },
+    {
+      "zip_code": 785,
+      "latitude": 18.018822,
+      "longitude": -66.795603,
+      "city": "Guayama",
+      "state": "PR",
+      "county": "Guayanilla"
+    },
+    {
+      "zip_code": 786,
+      "latitude": 18.128092,
+      "longitude": -66.268717,
+      "city": "La Plata",
+      "state": "PR",
+      "county": "Aibonito"
+    },
+    {
+      "zip_code": 791,
+      "latitude": 18.138029,
+      "longitude": -65.788499,
+      "city": "Humacao",
+      "state": "PR",
+      "county": "Humacao"
+    },
+    {
+      "zip_code": 792,
+      "latitude": 18.138029,
+      "longitude": -65.788499,
+      "city": "Humacao",
+      "state": "PR",
+      "county": "Humacao"
+    },
+    {
+      "zip_code": 794,
+      "latitude": 18.200898,
+      "longitude": -66.307236,
+      "city": "Barranquitas",
+      "state": "PR",
+      "county": "Barranquitas"
+    },
+    {
+      "zip_code": 795,
+      "latitude": 17.997367,
+      "longitude": -66.493218,
+      "city": "Juana Diaz",
+      "state": "PR",
+      "county": "Juana Diaz"
+    },
+    {
+      "zip_code": 801,
+      "latitude": 18.322285,
+      "longitude": -64.963715,
+      "city": "St Thomas",
+      "state": "VI",
+      "county": "Saint Thomas"
+    },
+    {
+      "zip_code": 802,
+      "latitude": 18.322285,
+      "longitude": -64.963715,
+      "city": "St Thomas",
+      "state": "VI",
+      "county": "Saint Thomas"
+    },
+    {
+      "zip_code": 803,
+      "latitude": 18.322285,
+      "longitude": -64.963715,
+      "city": "St Thomas",
+      "state": "VI",
+      "county": "Saint Thomas"
+    },
+    {
+      "zip_code": 804,
+      "latitude": 18.322285,
+      "longitude": -64.963715,
+      "city": "St Thomas",
+      "state": "VI",
+      "county": "Saint Thomas"
+    },
+    {
+      "zip_code": 805,
+      "latitude": 18.322285,
+      "longitude": -64.963715,
+      "city": "St Thomas",
+      "state": "VI",
+      "county": "Saint Thomas"
+    },
+    {
+      "zip_code": 820,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Christiansted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 821,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Christiansted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 822,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Christiansted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 823,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Christiansted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 824,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Christiansted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 830,
+      "latitude": 18.32816,
+      "longitude": -64.740737,
+      "city": "St John",
+      "state": "VI",
+      "county": "Saint John"
+    },
+    {
+      "zip_code": 831,
+      "latitude": 18.32816,
+      "longitude": -64.740737,
+      "city": "St John",
+      "state": "VI",
+      "county": "Saint John"
+    },
+    {
+      "zip_code": 840,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Frederiksted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 841,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Frederiksted",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 850,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Kingshill",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 851,
+      "latitude": 17.734211,
+      "longitude": -64.734694,
+      "city": "Kingshill",
+      "state": "VI",
+      "county": "Saint Croix"
+    },
+    {
+      "zip_code": 901,
+      "latitude": 18.465901,
+      "longitude": -66.103568,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 902,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 906,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 907,
+      "latitude": 18.451647,
+      "longitude": -66.077003,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 908,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 909,
+      "latitude": 18.443384,
+      "longitude": -66.068133,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 910,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 911,
+      "latitude": 18.450828,
+      "longitude": -66.057859,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 912,
+      "latitude": 18.444187,
+      "longitude": -66.059859,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 913,
+      "latitude": 18.450735,
+      "longitude": -66.043352,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 914,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 915,
+      "latitude": 18.437896,
+      "longitude": -66.048087,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 916,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 917,
+      "latitude": 18.422018,
+      "longitude": -66.050602,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 918,
+      "latitude": 18.419069,
+      "longitude": -66.062319,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 919,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 920,
+      "latitude": 18.406808,
+      "longitude": -66.091885,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 921,
+      "latitude": 18.390429,
+      "longitude": -66.066124,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 922,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 923,
+      "latitude": 18.410775,
+      "longitude": -66.036708,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 924,
+      "latitude": 18.396392,
+      "longitude": -66.01146,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 925,
+      "latitude": 18.401055,
+      "longitude": -66.049773,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 926,
+      "latitude": 18.369376,
+      "longitude": -66.062804,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 927,
+      "latitude": 18.385174,
+      "longitude": -66.071959,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 928,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 929,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 930,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 931,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 933,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 934,
+      "latitude": 18.34487,
+      "longitude": -66.166014,
+      "city": "Fort Buchanan",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 935,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 936,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 937,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 938,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 939,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 940,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 949,
+      "latitude": 18.431911,
+      "longitude": -66.199692,
+      "city": "Toa Baja",
+      "state": "PR",
+      "county": "Toa Baja"
+    },
+    {
+      "zip_code": 950,
+      "latitude": 18.457761,
+      "longitude": -66.196503,
+      "city": "Toa Baja",
+      "state": "PR",
+      "county": "Toa Baja"
+    },
+    {
+      "zip_code": 951,
+      "latitude": 18.457761,
+      "longitude": -66.196503,
+      "city": "Toa Baja",
+      "state": "PR",
+      "county": "Toa Baja"
+    },
+    {
+      "zip_code": 952,
+      "latitude": 18.457761,
+      "longitude": -66.196503,
+      "city": "Sabana Seca",
+      "state": "PR",
+      "county": "Toa Baja"
+    },
+    {
+      "zip_code": 953,
+      "latitude": 18.356795,
+      "longitude": -66.25701,
+      "city": "Toa Alta",
+      "state": "PR",
+      "county": "Toa Alta"
+    },
+    {
+      "zip_code": 954,
+      "latitude": 18.358939,
+      "longitude": -66.258108,
+      "city": "Toa Alta",
+      "state": "PR",
+      "county": "Toa Alta"
+    },
+    {
+      "zip_code": 955,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 956,
+      "latitude": 18.326702,
+      "longitude": -66.174176,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 957,
+      "latitude": 18.366645,
+      "longitude": -66.183907,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 958,
+      "latitude": 18.34487,
+      "longitude": -66.166014,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 959,
+      "latitude": 18.387058,
+      "longitude": -66.159044,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 960,
+      "latitude": 18.34487,
+      "longitude": -66.166014,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 961,
+      "latitude": 18.413195,
+      "longitude": -66.168651,
+      "city": "Bayamon",
+      "state": "PR",
+      "county": "Bayamon"
+    },
+    {
+      "zip_code": 962,
+      "latitude": 18.437644,
+      "longitude": -66.140407,
+      "city": "Catano",
+      "state": "PR",
+      "county": "Catano"
+    },
+    {
+      "zip_code": 963,
+      "latitude": 18.443217,
+      "longitude": -66.139293,
+      "city": "Catano",
+      "state": "PR",
+      "county": "Catano"
+    },
+    {
+      "zip_code": 965,
+      "latitude": 18.428784,
+      "longitude": -66.11539,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "Guaynabo"
+    },
+    {
+      "zip_code": 966,
+      "latitude": 18.396815,
+      "longitude": -66.114889,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "Guaynabo"
+    },
+    {
+      "zip_code": 968,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 969,
+      "latitude": 18.362322,
+      "longitude": -66.113729,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "Guaynabo"
+    },
+    {
+      "zip_code": 970,
+      "latitude": 18.359143,
+      "longitude": -66.112295,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "Guaynabo"
+    },
+    {
+      "zip_code": 971,
+      "latitude": 18.30942,
+      "longitude": -66.113606,
+      "city": "Guaynabo",
+      "state": "PR",
+      "county": "Guaynabo"
+    },
+    {
+      "zip_code": 975,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "San Juan",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 976,
+      "latitude": 18.338133,
+      "longitude": -65.989229,
+      "city": "Trujillo Alto",
+      "state": "PR",
+      "county": "Trujillo Alto"
+    },
+    {
+      "zip_code": 977,
+      "latitude": 18.337004,
+      "longitude": -65.990099,
+      "city": "Trujillo Alto",
+      "state": "PR",
+      "county": "Trujillo Alto"
+    },
+    {
+      "zip_code": 978,
+      "latitude": 18.337004,
+      "longitude": -65.990099,
+      "city": "Saint Just Contract",
+      "state": "PR",
+      "county": "Trujillo Alto"
+    },
+    {
+      "zip_code": 979,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 981,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 982,
+      "latitude": 18.410462,
+      "longitude": -66.060533,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "San Juan"
+    },
+    {
+      "zip_code": 983,
+      "latitude": 18.413452,
+      "longitude": -65.977659,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 984,
+      "latitude": 18.393355,
+      "longitude": -65.972495,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 985,
+      "latitude": 18.345741,
+      "longitude": -65.93888,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 986,
+      "latitude": 18.393355,
+      "longitude": -65.972495,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 987,
+      "latitude": 18.373466,
+      "longitude": -65.959932,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 988,
+      "latitude": 18.393355,
+      "longitude": -65.972495,
+      "city": "Carolina",
+      "state": "PR",
+      "county": "Carolina"
+    },
+    {
+      "zip_code": 1001,
+      "latitude": 42.140549,
+      "longitude": -72.788661,
+      "city": "Agawam",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1002,
+      "latitude": 42.367092,
+      "longitude": -72.464571,
+      "city": "Amherst",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1003,
+      "latitude": 42.369562,
+      "longitude": -72.63599,
+      "city": "Amherst",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1004,
+      "latitude": 42.384494,
+      "longitude": -72.513183,
+      "city": "Amherst",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1005,
+      "latitude": 42.32916,
+      "longitude": -72.139465,
+      "city": "Barre",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1007,
+      "latitude": 42.280267,
+      "longitude": -72.402056,
+      "city": "Belchertown",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1008,
+      "latitude": 42.177833,
+      "longitude": -72.958359,
+      "city": "Blandford",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1009,
+      "latitude": 42.206092,
+      "longitude": -72.340486,
+      "city": "Bondsville",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1010,
+      "latitude": 42.108585,
+      "longitude": -72.20448,
+      "city": "Brimfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1011,
+      "latitude": 42.294259,
+      "longitude": -72.952776,
+      "city": "Chester",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1012,
+      "latitude": 42.392274,
+      "longitude": -72.825607,
+      "city": "Chesterfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1013,
+      "latitude": 42.161492,
+      "longitude": -72.667341,
+      "city": "Chicopee",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1014,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Chicopee",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1020,
+      "latitude": 42.177492,
+      "longitude": -72.562563,
+      "city": "Chicopee",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1021,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Chicopee",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1022,
+      "latitude": 42.193392,
+      "longitude": -72.55436,
+      "city": "Chicopee",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1026,
+      "latitude": 42.428617,
+      "longitude": -72.909841,
+      "city": "Cummington",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1027,
+      "latitude": 42.368303,
+      "longitude": -72.768839,
+      "city": "Easthampton",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1028,
+      "latitude": 42.062009,
+      "longitude": -72.49874,
+      "city": "East Longmeadow",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1029,
+      "latitude": 42.190904,
+      "longitude": -73.051661,
+      "city": "East Otis",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1030,
+      "latitude": 42.189335,
+      "longitude": -72.79774,
+      "city": "Feeding Hills",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1031,
+      "latitude": 42.352554,
+      "longitude": -72.205724,
+      "city": "Gilbertville",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1032,
+      "latitude": 42.443837,
+      "longitude": -72.819446,
+      "city": "Goshen",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1033,
+      "latitude": 42.262285,
+      "longitude": -72.504086,
+      "city": "Granby",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1034,
+      "latitude": 42.112748,
+      "longitude": -72.952003,
+      "city": "Granville",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1035,
+      "latitude": 42.356804,
+      "longitude": -72.576613,
+      "city": "Hadley",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1036,
+      "latitude": 42.067614,
+      "longitude": -72.417507,
+      "city": "Hampden",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1037,
+      "latitude": 42.347856,
+      "longitude": -72.225251,
+      "city": "Hardwick",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1038,
+      "latitude": 42.387269,
+      "longitude": -72.643081,
+      "city": "Hatfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1039,
+      "latitude": 42.35641,
+      "longitude": -72.682127,
+      "city": "Haydenville",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1040,
+      "latitude": 42.198291,
+      "longitude": -72.64207,
+      "city": "Holyoke",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1041,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Holyoke",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1050,
+      "latitude": 42.313427,
+      "longitude": -72.903677,
+      "city": "Huntington",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1053,
+      "latitude": 42.353838,
+      "longitude": -72.704385,
+      "city": "Leeds",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1054,
+      "latitude": 42.474681,
+      "longitude": -72.467543,
+      "city": "Leverett",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1056,
+      "latitude": 42.173276,
+      "longitude": -72.627038,
+      "city": "Ludlow",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1057,
+      "latitude": 42.095323,
+      "longitude": -72.282063,
+      "city": "Monson",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1059,
+      "latitude": 42.369562,
+      "longitude": -72.63599,
+      "city": "North Amherst",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1060,
+      "latitude": 42.415154,
+      "longitude": -72.76927,
+      "city": "Northampton",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1061,
+      "latitude": 42.369562,
+      "longitude": -72.63599,
+      "city": "Northampton",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1062,
+      "latitude": 42.328838,
+      "longitude": -72.845227,
+      "city": "Florence",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1063,
+      "latitude": 42.317939,
+      "longitude": -72.640234,
+      "city": "Northampton",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1066,
+      "latitude": 42.406697,
+      "longitude": -72.633901,
+      "city": "North Hatfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1068,
+      "latitude": 42.346144,
+      "longitude": -72.058847,
+      "city": "Oakham",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1069,
+      "latitude": 42.176131,
+      "longitude": -72.31457,
+      "city": "Palmer",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1070,
+      "latitude": 42.448984,
+      "longitude": -72.958397,
+      "city": "Plainfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1071,
+      "latitude": 42.177432,
+      "longitude": -72.864558,
+      "city": "Russell",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1072,
+      "latitude": 42.471562,
+      "longitude": -72.44017,
+      "city": "Shutesbury",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1073,
+      "latitude": 42.230008,
+      "longitude": -72.728463,
+      "city": "Southampton",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1074,
+      "latitude": 42.375998,
+      "longitude": -72.149388,
+      "city": "South Barre",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1075,
+      "latitude": 42.24984,
+      "longitude": -72.58152,
+      "city": "South Hadley",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1077,
+      "latitude": 42.066644,
+      "longitude": -72.541205,
+      "city": "Southwick",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1079,
+      "latitude": 42.192892,
+      "longitude": -72.329574,
+      "city": "Thorndike",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1080,
+      "latitude": 42.179805,
+      "longitude": -72.517813,
+      "city": "Three Rivers",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1081,
+      "latitude": 42.061948,
+      "longitude": -72.213598,
+      "city": "Wales",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1082,
+      "latitude": 42.377471,
+      "longitude": -72.548549,
+      "city": "Ware",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1083,
+      "latitude": 42.204027,
+      "longitude": -72.199439,
+      "city": "Warren",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1084,
+      "latitude": 42.390303,
+      "longitude": -72.870857,
+      "city": "West Chesterfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1085,
+      "latitude": 42.14869,
+      "longitude": -72.501887,
+      "city": "Westfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1086,
+      "latitude": 42.173428,
+      "longitude": -72.847964,
+      "city": "Westfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1088,
+      "latitude": 42.390583,
+      "longitude": -72.646894,
+      "city": "West Hatfield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1089,
+      "latitude": 42.125793,
+      "longitude": -72.645334,
+      "city": "West Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1090,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "West Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1092,
+      "latitude": 42.202887,
+      "longitude": -72.229025,
+      "city": "West Warren",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1093,
+      "latitude": 42.442673,
+      "longitude": -72.652511,
+      "city": "Whately",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1094,
+      "latitude": 42.358201,
+      "longitude": -72.140846,
+      "city": "Wheelwright",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1095,
+      "latitude": 42.125974,
+      "longitude": -72.489988,
+      "city": "Wilbraham",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1096,
+      "latitude": 42.413069,
+      "longitude": -72.821653,
+      "city": "Williamsburg",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1097,
+      "latitude": 42.161743,
+      "longitude": -72.845912,
+      "city": "Woronoco",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1098,
+      "latitude": 42.40494,
+      "longitude": -72.896133,
+      "city": "Worthington",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1101,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1102,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1103,
+      "latitude": 42.103044,
+      "longitude": -72.590783,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1104,
+      "latitude": 42.128605,
+      "longitude": -72.567966,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1105,
+      "latitude": 42.099793,
+      "longitude": -72.577732,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1106,
+      "latitude": 42.049194,
+      "longitude": -72.567882,
+      "city": "Longmeadow",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1107,
+      "latitude": 42.126237,
+      "longitude": -72.586733,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1108,
+      "latitude": 42.080594,
+      "longitude": -72.558081,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1109,
+      "latitude": 42.119293,
+      "longitude": -72.548981,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1111,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1114,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1115,
+      "latitude": 42.102894,
+      "longitude": -72.591633,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1116,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Longmeadow",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1118,
+      "latitude": 42.093894,
+      "longitude": -72.523227,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1119,
+      "latitude": 42.124943,
+      "longitude": -72.526705,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1128,
+      "latitude": 42.094616,
+      "longitude": -72.487229,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1129,
+      "latitude": 42.124485,
+      "longitude": -72.489479,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1133,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1138,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1139,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1144,
+      "latitude": 42.101796,
+      "longitude": -72.59151,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1151,
+      "latitude": 42.150593,
+      "longitude": -72.51278,
+      "city": "Indian Orchard",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1152,
+      "latitude": 42.170731,
+      "longitude": -72.604842,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1199,
+      "latitude": 42.119943,
+      "longitude": -72.604983,
+      "city": "Springfield",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    {
+      "zip_code": 1201,
+      "latitude": 42.479475,
+      "longitude": -73.24807,
+      "city": "Pittsfield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1202,
+      "latitude": 42.3929,
+      "longitude": -73.228483,
+      "city": "Pittsfield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1203,
+      "latitude": 42.3929,
+      "longitude": -73.228483,
+      "city": "Pittsfield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1220,
+      "latitude": 42.385595,
+      "longitude": -73.172166,
+      "city": "Adams",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1222,
+      "latitude": 42.185969,
+      "longitude": -73.318695,
+      "city": "Ashley Falls",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1223,
+      "latitude": 42.3418,
+      "longitude": -73.103468,
+      "city": "Becket",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1224,
+      "latitude": 42.3929,
+      "longitude": -73.228483,
+      "city": "Berkshire",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1225,
+      "latitude": 42.482125,
+      "longitude": -73.127483,
+      "city": "Cheshire",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1226,
+      "latitude": 42.470296,
+      "longitude": -73.08895,
+      "city": "Dalton",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1227,
+      "latitude": 42.516145,
+      "longitude": -73.092852,
+      "city": "Dalton",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1229,
+      "latitude": 42.279292,
+      "longitude": -73.343545,
+      "city": "Glendale",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1230,
+      "latitude": 42.299392,
+      "longitude": -73.26665,
+      "city": "Great Barrington",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1235,
+      "latitude": 42.29237,
+      "longitude": -73.22164,
+      "city": "Hinsdale",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1236,
+      "latitude": 42.291299,
+      "longitude": -73.358798,
+      "city": "Housatonic",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1237,
+      "latitude": 42.487569,
+      "longitude": -73.235048,
+      "city": "Lanesboro",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1238,
+      "latitude": 42.369856,
+      "longitude": -73.267465,
+      "city": "Lee",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1240,
+      "latitude": 42.459202,
+      "longitude": -73.219858,
+      "city": "Lenox",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1242,
+      "latitude": 42.338594,
+      "longitude": -73.250891,
+      "city": "Lenox Dale",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1243,
+      "latitude": 42.356088,
+      "longitude": -73.010448,
+      "city": "Middlefield",
+      "state": "MA",
+      "county": "Hampshire"
+    },
+    {
+      "zip_code": 1244,
+      "latitude": 42.122827,
+      "longitude": -73.253983,
+      "city": "Mill River",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1245,
+      "latitude": 42.18669,
+      "longitude": -73.206498,
+      "city": "Monterey",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1247,
+      "latitude": 42.426974,
+      "longitude": -73.18632,
+      "city": "North Adams",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1252,
+      "latitude": 42.198648,
+      "longitude": -73.446234,
+      "city": "North Egremont",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1253,
+      "latitude": 42.213156,
+      "longitude": -73.090434,
+      "city": "Otis",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1254,
+      "latitude": 42.233105,
+      "longitude": -73.238358,
+      "city": "Richmond",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1255,
+      "latitude": 42.148975,
+      "longitude": -73.14861,
+      "city": "Sandisfield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1256,
+      "latitude": 42.367341,
+      "longitude": -73.128528,
+      "city": "Savoy",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1257,
+      "latitude": 42.314564,
+      "longitude": -73.267694,
+      "city": "Sheffield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1258,
+      "latitude": 42.128075,
+      "longitude": -73.36089,
+      "city": "South Egremont",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1259,
+      "latitude": 42.198712,
+      "longitude": -73.278543,
+      "city": "Southfield",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1260,
+      "latitude": 42.286586,
+      "longitude": -73.313274,
+      "city": "South Lee",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1262,
+      "latitude": 42.304604,
+      "longitude": -73.330001,
+      "city": "Stockbridge",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1263,
+      "latitude": 42.3929,
+      "longitude": -73.228483,
+      "city": "Stockbridge",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1264,
+      "latitude": 42.220001,
+      "longitude": -73.197865,
+      "city": "Tyringham",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1266,
+      "latitude": 42.360482,
+      "longitude": -73.265354,
+      "city": "West Stockbridge",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1267,
+      "latitude": 42.642075,
+      "longitude": -73.257699,
+      "city": "Williamstown",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1270,
+      "latitude": 42.443726,
+      "longitude": -73.116127,
+      "city": "Windsor",
+      "state": "MA",
+      "county": "Berkshire"
+    },
+    {
+      "zip_code": 1301,
+      "latitude": 42.601335,
+      "longitude": -72.623619,
+      "city": "Greenfield",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1302,
+      "latitude": 42.522178,
+      "longitude": -72.624164,
+      "city": "Greenfield",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1330,
+      "latitude": 42.562391,
+      "longitude": -72.738152,
+      "city": "Ashfield",
+      "state": "MA",
+      "county": "Franklin"
+    },
+    {
+      "zip_code": 1331,
+      "latitude": 42.547302,
+      "longitude": -72.183903,
+      "city": "Athol",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    {
+      "zip_code": 1337,
+      "latitude": 42.62706,
+      "longitude": -72.642888,
+      "city": "Bernardston",
+      "state": "MA",
+      "county": "Franklin"
+    }
+  ]
